@@ -1,0 +1,19 @@
+C:\Users\Gladys Sanchez\source\repos\Calculadora 19bii\bin\Debug\Calculadora 19bii.exe.config
+C:\Users\Gladys Sanchez\source\repos\Calculadora 19bii\bin\Debug\Calculadora 19bii.exe
+C:\Users\Gladys Sanchez\source\repos\Calculadora 19bii\bin\Debug\Calculadora 19bii.pdb
+C:\Users\Gladys Sanchez\source\repos\Calculadora 19bii\obj\Debug\Calculadora 19bii.csprojAssemblyReference.cache
+C:\Users\Gladys Sanchez\source\repos\Calculadora 19bii\obj\Debug\Calculadora_19bii.Form1.resources
+C:\Users\Gladys Sanchez\source\repos\Calculadora 19bii\obj\Debug\Calculadora_19bii.Properties.Resources.resources
+C:\Users\Gladys Sanchez\source\repos\Calculadora 19bii\obj\Debug\Calculadora 19bii.csproj.GenerateResource.cache
+C:\Users\Gladys Sanchez\source\repos\Calculadora 19bii\obj\Debug\Calculadora 19bii.csproj.CoreCompileInputs.cache
+C:\Users\Gladys Sanchez\source\repos\Calculadora 19bii\obj\Debug\Calculadora 19bii.exe
+C:\Users\Gladys Sanchez\source\repos\Calculadora 19bii\obj\Debug\Calculadora 19bii.pdb
+D:\Segundo Año\Calculadora Luis Zuniga\bin\Debug\Calculadora 19bii.exe.config
+D:\Segundo Año\Calculadora Luis Zuniga\bin\Debug\Calculadora 19bii.exe
+D:\Segundo Año\Calculadora Luis Zuniga\bin\Debug\Calculadora 19bii.pdb
+D:\Segundo Año\Calculadora Luis Zuniga\obj\Debug\Calculadora 19bii.csprojAssemblyReference.cache
+D:\Segundo Año\Calculadora Luis Zuniga\obj\Debug\Calculadora_19bii.Form1.resources
+D:\Segundo Año\Calculadora Luis Zuniga\obj\Debug\Calculadora_19bii.Properties.Resources.resources
+D:\Segundo Año\Calculadora Luis Zuniga\obj\Debug\Calculadora 19bii.csproj.GenerateResource.cache
+D:\Segundo Año\Calculadora Luis Zuniga\obj\Debug\Calculadora 19bii.exe
+D:\Segundo Año\Calculadora Luis Zuniga\obj\Debug\Calculadora 19bii.pdb
